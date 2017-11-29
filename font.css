@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Christmas Font';
+    src: url('chrome-extension://__MSG_@@extension_id__/ChristmasTimePersonalUse.ttf') format('truetype');
+}
+
+.MerryChristmas {
+  font-family: 'Christmas Font';
+}
